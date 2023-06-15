@@ -24,5 +24,5 @@ This Repository has the following Projects
 ### If they generate a random password and store it somewhere ...
 - [random-generate-pass](https://github.com/Mert305/basic-python-projects/blob/main/projects/random-generate-pass/random-generate-pass.py)
 
-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
 
