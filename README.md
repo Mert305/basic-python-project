@@ -16,7 +16,7 @@ This Repository has the following Projects
 
 [Russian Roulette]()
 [Keep 1 number in your mind]()
-[How many seconds did you live]()
+[How many seconds did you live](https://github.com/Mert305/basic-python-projects/blob/main/projects/How%20many%20seconds%20did%20you%20live/secondsdidyoulive.py)
 
 ### Kendine Özgü Bir QR kod İster misin ?
 [qrcodegenerator]()
