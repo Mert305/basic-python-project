@@ -7,7 +7,7 @@ There are a variety of projects in this repository, each covering different topi
 
 Also, this repository is a great starting point for those who want to step into the open source world. By contributing to projects, you can improve your code writing and collaboration skills, interact with the community, and gain experience in real-world projects.
 
-<br>
+<br></br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
 
 ## Projects
