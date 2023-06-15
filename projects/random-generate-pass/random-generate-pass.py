@@ -6,17 +6,18 @@ def generate_password(length):
     password = ''.join(random.choice(characters) for _ in range(length))
     return password
 
-def save_password(password, filename):
+def save_password(name, password, filename):
     with open(filename, 'a') as file:
-        file.write(password + '\n')
+        file.write(f"{name}: {password}\n")
 
 def password_generator():
     filename = "passwords.txt"
     while True:
         length = int(input("Şifre uzunluğunu girin: "))
+        name = input("Şifre için bir isim girin: ")
         password = generate_password(length)
         print("Oluşturulan Şifre:", password)
-        save_password(password, filename)
+        save_password(name, password, filename)
         choice = input("Yeni bir şifre oluşturmak için 'y' devam etmek için 'n' tuşuna basın: ")
         if choice.lower() != 'y':
             break
