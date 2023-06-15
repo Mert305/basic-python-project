@@ -14,12 +14,12 @@ This Repository has the following Projects
 
 ### Basit Oyun Projeleri 
 
-[Russian Roulette]()
-[Keep 1 number in your mind]()
-[How many seconds did you live](https://github.com/Mert305/basic-python-projects/blob/main/projects/How%20many%20seconds%20did%20you%20live/secondsdidyoulive.py)
+- [Russian Roulette](https://github.com/Mert305/basic-python-projects/blob/main/projects/Russian%20Roulette/roulette.py)
+- [Keep 1 number in your mind](https://github.com/Mert305/basic-python-projects/blob/main/projects/Keep%201%20number%20in%20your%20mind/number.py)
+- [How many seconds did you live](https://github.com/Mert305/basic-python-projects/blob/main/projects/How%20many%20seconds%20did%20you%20live/secondsdidyoulive.py)
 
 ### Kendine Özgü Bir QR kod İster misin ?
-[qrcodegenerator]()
+- [qrcodegenerator](https://github.com/Mert305/basic-python-projects/blob/main/projects/qrcodegenerator/qrcodegenerator.py)
 
 ### Rastgele Şifre Oluşturup Bunu Biryerde Saklasalar ...
-[random-generate-pass]()
+- [random-generate-pass](https://github.com/Mert305/basic-python-projects/blob/main/projects/random-generate-pass/random-generate-pass.py)
