@@ -9,7 +9,7 @@ Ayrıca, bu depo açık kaynak dünyasına adım atmak isteyenler için harika b
 
 ## Projeler
 
-This Repository has the following Projects
+Bu Depo Aşağıdaki Projelere sahiptir
 
 
 ### Basit Oyun Projeleri 
