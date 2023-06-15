@@ -7,6 +7,8 @@ There are a variety of projects in this repository, each covering different topi
 
 Also, this repository is a great starting point for those who want to step into the open source world. By contributing to projects, you can improve your code writing and collaboration skills, interact with the community, and gain experience in real-world projects.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
+
 ## Projects
 
 This Repository has the following Projects
@@ -23,6 +25,4 @@ This Repository has the following Projects
 
 ### If they generate a random password and store it somewhere ...
 - [random-generate-pass](https://github.com/Mert305/basic-python-projects/blob/main/projects/random-generate-pass/random-generate-pass.py)
-
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
 
