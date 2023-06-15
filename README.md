@@ -9,7 +9,7 @@ Also, this repository is a great starting point for those who want to step into 
 
 <br></br>
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/MertErgun)
-
+<br></br>
 ## Projects
 
 This Repository has the following Projects
